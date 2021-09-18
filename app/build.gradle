@@ -50,7 +50,7 @@ android {
 
 dependencies {
 
-    implementation("cn.ececloud.android.open:scale:0.0.1")
+    implementation("cn.ececloud.android.open:scale:1.0.0")
 
     implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
     implementation 'androidx.core:core-ktx:1.3.1'
